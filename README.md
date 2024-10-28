@@ -6,6 +6,19 @@ But wouldn't it be funny if we could draw everything using the golden ratio?
     <img src="example.gif" style="max-width: 100%; height: auto;" alt="Example">
 </div>
 
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <table>
+        <tr>
+            <td><img src="progress_600.png" style="max-width: 100%; height: auto;" alt="Progress Image 1"></td>
+            <td><img src="progress_1800.png" style="max-width: 100%; height: auto;" alt="Progress Image 2"></td>
+            <td><img src="progress_16400.png" style="max-width: 100%; height: auto;" alt="Progress Image 3"></td>
+            <td><img src="progress_83600.png" style="max-width: 100%; height: auto;" alt="Progress Image 4"></td>
+        </tr>
+    </table>
+</div>
+
+
+
 ## Features
 - Converts any JPEG or PNG image into an artistic rendering using golden spirals.
 - Iterative approximation with error measurement.
