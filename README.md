@@ -31,7 +31,5 @@ But wouldn't it be funny if we could draw everything using the golden ratio?
 - NumPy
 - OpenCV (cv2)
 - Pillow
-- Matplotlib
-- SciPy
 
 Don't take this too seriously. I made this in the morning before work. ☕
