@@ -3,6 +3,5 @@ gen/
 *.png
 *.jpg
 *.jpeg
-*.gif
 *.webp
 docs/*

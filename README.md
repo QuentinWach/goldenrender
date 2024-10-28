@@ -3,7 +3,7 @@ _"The golden ratio is everywhere, man."_ some high dude might say but it rarely 
 But wouldn't it be funny if we could draw everything using the golden ratio?
 
 <div style="text-align: center;">
-    <img src="docs/compressed_gif.gif" style="max-width: 100%; height: auto;" alt="Example">
+    <img src="example.gif" style="max-width: 100%; height: auto;" alt="Example">
 </div>
 
 ## Features
