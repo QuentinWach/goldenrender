@@ -2,10 +2,6 @@
 _"The golden ratio is everywhere, man."_ some high dude might say but it rarely actually is. Rather, humans just imagine it where it is not.
 But wouldn't it be funny if we could draw everything using the golden ratio?
 
-<div style="text-align: center;">
-    <img src="example.gif" style="max-width: 100%; height: auto;" alt="Example">
-</div>
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
     <table>
         <tr>
